@@ -1,0 +1,4 @@
+Algorithm,Silhouette,Davies-Bouldin,ARI,NMI
+K-Means (k=3),0.1939,1.6545,0.4801,0.3928
+Agglomerative (Ward),0.1868,1.6643,0.4419,0.3203
+DBSCAN,0.0163,1.0578,-0.0677,0.0832

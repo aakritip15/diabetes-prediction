@@ -5,3 +5,6 @@ plotly
 scikit-learn
 ipykernel
 notebook
+imblearn
+optuna 
+xgboost
