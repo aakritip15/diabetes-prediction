@@ -8,3 +8,4 @@ notebook
 imblearn
 optuna 
 xgboost
+streamlit
